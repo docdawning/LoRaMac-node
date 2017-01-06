@@ -17,7 +17,7 @@ fully compatible with LoRaWAN 1.0.1 specification.
 Each LoRaWAN application example includes the LoRaWAN certification protocol implementation.
 
 SX1272/76 radio drivers are also provided.
-In case only point to point links are required a Ping-Pong application is provided as example.
+In case only point to point links are required, a Ping-Pong application is provided as example.
 
 *The LoRaWAN stack API documentation can be found at: http://stackforce.github.io/LoRaMac-doc/*
 
